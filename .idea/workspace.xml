@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd22e623-cf73-40dc-bea0-3d51b7af5daa" name="Changes" comment="add hoa don len db">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/view/layout/header1.php" beforeDir="false" afterPath="$PROJECT_DIR$/customer/view/layout/header1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/view/layout/header2.php" beforeDir="false" afterPath="$PROJECT_DIR$/customer/view/layout/header2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/view/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/customer/view/register.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MRG2ODkl5P5x9bXimbimxFnCDI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp1/htdocs/Bookstore2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp1\htdocs\Bookstore\customer" />
+      <recent name="C:\xampp1\htdocs\Bookstore\admin\img" />
+      <recent name="C:\xampp1\htdocs\Bookstore\customer\img" />
+      <recent name="C:\xampp1\htdocs\Bookstore\admin\view\sp" />
+      <recent name="C:\xampp1\htdocs\Bookstore\admin\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp1\htdocs\Bookstore\admin\view\layout" />
+      <recent name="C:\xampp1\htdocs\Bookstore\customer\view\information" />
+      <recent name="C:\xampp1\htdocs\Bookstore\customer\view" />
+      <recent name="C:\xampp1\htdocs\Bookstore\customer\model" />
+      <recent name="C:\xampp1\htdocs\Bookstore\customer\controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd22e623-cf73-40dc-bea0-3d51b7af5daa" name="Changes" comment="" />
+      <created>1677722773467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677722773467</updated>
+      <workItem from="1677722774681" duration="1553000" />
+      <workItem from="1678162662946" duration="112000" />
+      <workItem from="1678890187727" duration="298000" />
+      <workItem from="1678933323571" duration="5820000" />
+      <workItem from="1679057579013" duration="3617000" />
+      <workItem from="1679144217978" duration="5199000" />
+      <workItem from="1679190454205" duration="1955000" />
+      <workItem from="1679307534862" duration="4435000" />
+      <workItem from="1679317265206" duration="6687000" />
+      <workItem from="1679324095264" duration="602000" />
+      <workItem from="1679363409895" duration="1010000" />
+      <workItem from="1679365214540" duration="6613000" />
+      <workItem from="1679467366906" duration="4754000" />
+      <workItem from="1679640123733" duration="11605000" />
+      <workItem from="1679664294714" duration="371000" />
+      <workItem from="1679664676745" duration="1229000" />
+      <workItem from="1679671068545" duration="1605000" />
+      <workItem from="1679750959084" duration="603000" />
+      <workItem from="1679965899397" duration="6847000" />
+      <workItem from="1679974304730" duration="814000" />
+      <workItem from="1679975191272" duration="635000" />
+      <workItem from="1679976204498" duration="1636000" />
+      <workItem from="1679977994408" duration="943000" />
+      <workItem from="1679995179694" duration="612000" />
+      <workItem from="1680009775209" duration="598000" />
+      <workItem from="1680073420337" duration="4058000" />
+      <workItem from="1680078895215" duration="351000" />
+      <workItem from="1680079355533" duration="345000" />
+      <workItem from="1680079710955" duration="5747000" />
+      <workItem from="1680098165193" duration="5050000" />
+      <workItem from="1680139251504" duration="11130000" />
+      <workItem from="1680171847402" duration="602000" />
+      <workItem from="1680185047957" duration="5149000" />
+      <workItem from="1680244948000" duration="6585000" />
+      <workItem from="1680256946019" duration="946000" />
+      <workItem from="1680272887544" duration="26000" />
+      <workItem from="1680273354977" duration="2242000" />
+      <workItem from="1680403026689" duration="5445000" />
+      <workItem from="1680419296554" duration="6184000" />
+      <workItem from="1680442743042" duration="16000" />
+      <workItem from="1680444748527" duration="4000" />
+      <workItem from="1680452371631" duration="837000" />
+      <workItem from="1680508694434" duration="5666000" />
+      <workItem from="1680525783825" duration="4665000" />
+      <workItem from="1680570997274" duration="10553000" />
+      <workItem from="1680599507487" duration="6652000" />
+      <workItem from="1680660359091" duration="940000" />
+      <workItem from="1680677053493" duration="12048000" />
+      <workItem from="1680695078847" duration="7140000" />
+      <workItem from="1680743327904" duration="996000" />
+      <workItem from="1680750094428" duration="3776000" />
+      <workItem from="1681118858370" duration="12976000" />
+      <workItem from="1681143176579" duration="614000" />
+      <workItem from="1681187893839" duration="18191000" />
+      <workItem from="1681310495449" duration="844000" />
+      <workItem from="1681313600939" duration="1001000" />
+      <workItem from="1681319293370" duration="1459000" />
+      <workItem from="1681373511002" duration="1077000" />
+      <workItem from="1681395480487" duration="29000" />
+      <workItem from="1681395935189" duration="2746000" />
+      <workItem from="1681403346607" duration="640000" />
+      <workItem from="1681456519172" duration="1589000" />
+    </task>
+    <task id="LOCAL-00001" summary="demo">
+      <created>1679970489212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679970489212</updated>
+    </task>
+    <task id="LOCAL-00002" summary="demo">
+      <created>1680080057871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680080057871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo">
+      <created>1680139430444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680139430445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo">
+      <created>1680141446089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680141446089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="demo">
+      <created>1680143075133</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680143075133</updated>
+    </task>
+    <task id="LOCAL-00006" summary="demo">
+      <created>1680150055796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680150055796</updated>
+    </task>
+    <task id="LOCAL-00007" summary="demo">
+      <created>1680191479406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680191479406</updated>
+    </task>
+    <task id="LOCAL-00008" summary="demo">
+      <created>1680248970699</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680248970699</updated>
+    </task>
+    <task id="LOCAL-00009" summary="demo">
+      <created>1680249983304</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680249983304</updated>
+    </task>
+    <task id="LOCAL-00010" summary="demo">
+      <created>1680250067927</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250067927</updated>
+    </task>
+    <task id="LOCAL-00011" summary="demo">
+      <created>1680257890435</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680257890435</updated>
+    </task>
+    <task id="LOCAL-00012" summary="demo">
+      <created>1680404048207</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680404048207</updated>
+    </task>
+    <task id="LOCAL-00013" summary="demo">
+      <created>1680426312008</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680426312008</updated>
+    </task>
+    <task id="LOCAL-00014" summary="demo">
+      <created>1680530611162</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680530611162</updated>
+    </task>
+    <task id="LOCAL-00015" summary="demo">
+      <created>1680615030021</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680615030021</updated>
+    </task>
+    <task id="LOCAL-00016" summary="demo1">
+      <created>1680677500270</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680677500270</updated>
+    </task>
+    <task id="LOCAL-00017" summary="demo2">
+      <created>1680679703034</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680679703034</updated>
+    </task>
+    <task id="LOCAL-00018" summary="demo2">
+      <created>1680681610427</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680681610427</updated>
+    </task>
+    <task id="LOCAL-00019" summary="demo2">
+      <created>1680688642288</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680688642288</updated>
+    </task>
+    <task id="LOCAL-00020" summary="sửa cột">
+      <created>1681122771896</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681122771896</updated>
+    </task>
+    <task id="LOCAL-00021" summary="sửa cột">
+      <created>1681123738813</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1681123738813</updated>
+    </task>
+    <task id="LOCAL-00022" summary="sửa cột">
+      <created>1681135307987</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1681135307987</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add hoa don len db">
+      <created>1681203192723</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681203192723</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add hoa don len db">
+      <created>1681223528767</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681223528767</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo" />
+    <MESSAGE value="demo1" />
+    <MESSAGE value="demo2" />
+    <MESSAGE value="sửa cột" />
+    <MESSAGE value="add hoa don len db" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hoa don len db" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
